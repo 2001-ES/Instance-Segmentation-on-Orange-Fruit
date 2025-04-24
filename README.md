@@ -1,1 +1,1 @@
-# Instance-Segmentation-on-Orange-Fruit
+This project focuses on the instance segmentation of orange fruits in images using deep learning and computer vision techniques. Unlike object detection, which only provides bounding boxes, instance segmentation identifies and separates each individual orange with precise pixel-level masks, even when fruits are overlapping or clustered together.
